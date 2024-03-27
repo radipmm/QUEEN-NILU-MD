@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP - 94773283124
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -23,15 +23,15 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94773283124'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'GOST'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = '😒' // Inboc Block Message
 
-global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -47,7 +47,7 @@ global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@gost https://chat.whatsapp.com/Eo6QInzfzpqIERhnyDvHuE🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -71,17 +71,15 @@ global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/Eo6QInzfzpqIERhnyDvHuE' // ur group link
 
 
-/* 18 + Download Settings */
-
+/* 18 + Down
 global.SEX_DL = 'false' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
-global.AUTO_STICKER = true
-
+global.AUTO_STICKER = true 
 global.AUTO_REPLY = true
 
 global.VOICE_REPLY = true
